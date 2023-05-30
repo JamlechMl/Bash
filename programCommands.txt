@@ -1,0 +1,9 @@
+ls - This command lists the contents of a directory.
+cd - This command changes the current directory3. mkdir - This command creates a new directory.
+rm - This command removes a file or directory.
+cp - This command copies a file or directory.
+mv - This command moves a file or directory.
+cat - This command displays the contents of a file.
+grep - This command searches for a specific pattern in a file.
+chmod - This command changes the permissions of a file or directory.
+sudo - This command allows you to execute a command with administrative privileges.
